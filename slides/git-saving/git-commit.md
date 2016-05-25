@@ -1,5 +1,7 @@
 ##git commit
 
+<img src="img/git-drop-off.svg" />
+
 ```
 git commit -m "<message>"
 

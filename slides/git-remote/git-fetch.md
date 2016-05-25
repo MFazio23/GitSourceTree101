@@ -1,5 +1,7 @@
 ##git fetch
 
+<img src="img/git-branches.svg" height="400" />
+
 ```
 git fetch <remote>
 git fetch <remote> <branch>

@@ -1,5 +1,7 @@
 ##git add
 
+<img src="img/git-add.svg" />
+
 ```
 git add <file|directory>
 

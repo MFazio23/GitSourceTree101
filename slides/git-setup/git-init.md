@@ -1,5 +1,7 @@
 ##git init
 
+<img src="img/git-init.svg" />
+
 ```
 git init <directory>
 

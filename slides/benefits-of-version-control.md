@@ -1,6 +1,6 @@
 ##Benefits of Version Control
 
-<img src="img/" />
+<img src="img/vcs.svg" />
 
 Note:
 + Revert changes

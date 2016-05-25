@@ -1,6 +1,6 @@
 ##What is Version Control?
 
-<img src="img/vcs.svg" />
+<img src="img/git-or-tfvs.png" />
 
 Note:
 + Tool to manage changes to files

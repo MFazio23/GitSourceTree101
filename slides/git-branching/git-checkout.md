@@ -1,5 +1,7 @@
 ##git checkout
 
+<img src="img/git-branch.svg" />
+
 ```
 git checkout <existing-branch>
 git checkout -b <existing-branch>

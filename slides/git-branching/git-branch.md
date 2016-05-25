@@ -1,4 +1,6 @@
-##git add
+##git branch
+
+<img src="img/git-branches-large.svg" height="400" />
 
 ```
 git branch

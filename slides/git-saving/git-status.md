@@ -1,5 +1,7 @@
 ##git status
 
+<img src="img/git-inspect.svg" />
+
 ```
 git status
 ```

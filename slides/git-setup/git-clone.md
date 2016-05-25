@@ -1,5 +1,7 @@
 ##git clone
 
+<img src="img/git-repo-to-repo.svg" height="400" />
+
 ```
 git clone <repository> <directory>
 

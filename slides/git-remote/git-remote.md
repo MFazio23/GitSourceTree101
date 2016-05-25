@@ -1,5 +1,7 @@
 ##git remote
 
+<img src="img/git-remote.svg" />
+
 ```
 git remote
 git remote -v
