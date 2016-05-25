@@ -1,6 +1,6 @@
 ##Benefits of Version Control
 
-<img src="img/xkcd-git-commands.png" />
+<img src="img/" />
 
 Note:
 + Revert changes

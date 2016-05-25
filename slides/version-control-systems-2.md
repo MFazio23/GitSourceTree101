@@ -1,6 +1,6 @@
 ##Version Control Systems
 
-<img src="img/2008-survey-source-control-current.png" />
+<img src="img/2014SourceControlAdoption.jpg" />
 
 Note:
 + Image from VSoft's FinalBuilder team

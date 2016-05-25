@@ -6,7 +6,8 @@
 + Saving Changes
 + Syncing
 + Branching
-+ Pull Requests
++ SourceTree
++ Pull Requests (VSTS)
 
 Note:
 + 
