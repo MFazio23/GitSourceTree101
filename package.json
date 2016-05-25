@@ -1,0 +1,29 @@
+{
+  "name": "git-sourcetree-101",
+  "version": "1.0.0",
+  "description": "An introduction to Git and SourceTree",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MFazio23/GitSourceTree101.git"
+  },
+  "keywords": [
+    "git",
+    "sourcetree"
+  ],
+  "author": "Michael Fazio <mfazio23@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MFazio23/GitSourceTree101/issues"
+  },
+  "homepage": "https://github.com/MFazio23/GitSourceTree101#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.0"
+  },
+  "dependencies": {
+    "reveal.js": "^3.3.0"
+  }
+}
